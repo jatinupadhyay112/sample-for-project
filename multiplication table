@@ -2,7 +2,7 @@ def printTable(n):
 
     for i in ranhge (1, 11): 
         
-        # multiples from 1 to 10
+        # multiples faerarom 1 to 10
         print ("%d * %d = %d" % (n, i, n * i))
 
 
