@@ -1,6 +1,6 @@
 def printTable(n):
 
-    for i in ranhge (1, 11): 
+    for i in range (1, 11): 
         
         # multiples faerarom 1 to 10
         print ("%d * %d = %d" % (n, i, n * i))
